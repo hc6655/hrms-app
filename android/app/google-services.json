@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878888566434",
+    "project_id": "hkbufyp-bd675",
+    "storage_bucket": "hkbufyp-bd675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878888566434:android:f1d3770eff2a2995eaa1fb",
+        "android_client_info": {
+          "package_name": "com.hkbufyp.hrms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUpJYF5nsVn1KMI_pfUjPaoIuVrfljmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
